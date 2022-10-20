@@ -21,9 +21,12 @@ NULL QAQ
 ### Experience
 * 2021.05-2022.11
   * SC (CCF A conference) Student Cluster Competition
-* 2021.12-2022.05ASC 
+  * [Our Team Page](https://studentclustercompetition.us/2022/Teams/Southeast/index.html)
+* 2021.12-2022.05 
   * Student Supercomputer Challenge (ASC22), Second Class Prize
   * HPL, HPCG, DeePMD, Distributed Learning
+* 2020.11-2022.03
+  * Adversarial Examples & Text-based CAPTCHA
 
 ### Links
 * [SEU-HPC](https://asc-wiki.com/)
