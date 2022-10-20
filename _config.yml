@@ -74,7 +74,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "希望看到这句话的人开心\^o^/"
+sidebar-about-description: "希望看到这句话的人开心\\^o^/"
 sidebar-avatar: https://github.com/Gfssfa.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
