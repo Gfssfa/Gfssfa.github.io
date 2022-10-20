@@ -30,3 +30,6 @@ NULL QAQ
 
 ### Links
 * [SEU-HPC](https://asc-wiki.com/)
+
+### Contact
+[Email](hpc-cs@seu.edu.cn)
