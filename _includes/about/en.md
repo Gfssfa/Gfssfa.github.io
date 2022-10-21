@@ -32,4 +32,4 @@ NULL QAQ
 * [SEU-HPC](https://asc-wiki.com/)
 
 ### Contact
-Email: <hpc-cs@seu.edu.cn>
+Email: <hpc-cs@seu.edu.cn> <pchuang@contact.ac.cn>
