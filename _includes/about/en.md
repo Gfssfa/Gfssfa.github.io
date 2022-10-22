@@ -26,7 +26,7 @@ NULL QAQ
   * Student Supercomputer Challenge (ASC22), Second Class Prize
   * HPL, HPCG, DeePMD, Distributed Learning
 * 2020.11-2022.03
-  * Adversarial Examples & Text-based CAPTCHA
+  * Adversarial Samples & Text-based CAPTCHA
 
 ### Links
 * [SEU-HPC](https://asc-wiki.com/)
