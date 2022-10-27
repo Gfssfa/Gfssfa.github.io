@@ -25,6 +25,7 @@ NULL QAQ
 * 2021.12-2022.05 
   * Student Supercomputer Challenge (ASC22), Second Class Prize
   * HPL, HPCG, DeePMD, Distributed Learning
+  * [Challenge Details](http://www.asc-events.org/ASC22/Preliminary/)
 * 2020.11-2022.03
   * Adversarial Samples & Text-based CAPTCHA
 
