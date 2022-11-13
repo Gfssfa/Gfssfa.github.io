@@ -6,6 +6,7 @@ date:       2022-11-14 2:00:00
 author:     "Gfssfa"
 header-img: "img/bg-post-2022-11-14.jpg"
 catalog: true
+mathjax: true
 tags:
     - baby系列
     - 西瓜书
