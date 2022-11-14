@@ -70,10 +70,9 @@ $f\left(x_i\right)=w x_i+b \text { 使得 } f\left(x_i\right) \simeq y_i$
 
 对应欧式距离。线性回归中，最小二乘法试图找到一条直线，使所有样本到直线上的欧氏距离之和最小。
 
-$\begin{aligned}
-\left(w^*, b^*\right) &=\underset{(w, b)}{\arg \min } \sum_{i=1}^m\left(f\left(x_i\right)-y_i\right)^2 \\
-&=\underset{(w, b)}{\arg \min } \sum_{i=1}^m\left(y_i-w x_i-b\right)^2
-\end{aligned}$
+$$
+\left(w^*, b^*\right)=\underset{(w, b)}{\arg \min } \sum_{i=1}^m\left(f\left(x_i\right)-y_i\right)^2
+$$
 
 对$w$和$b$求导：
 
@@ -95,7 +94,23 @@ $b=\frac{1}{m} \sum_{i=1}^m\left(y_i-w x_i\right)$
 
 样本有$d$个属性描述，先对$w$,$b$扩充：
 
-$\mathbf{X}=\left(\begin{array}{ccccc}x_{11} & x_{12} & \cdots & x_{1 d} & 1 \\ x_{21} & x_{22} & \cdots & x_{2 d} & 1 \\ \vdots & \vdots & \ddots & \vdots & \vdots \\ x_{m 1} & x_{m 2} & \cdots & x_{m d} & 1\end{array}\right)=\left(\begin{array}{cc}\boldsymbol{x}_1^{\mathrm{T}} & 1 \\ \boldsymbol{x}_2^{\mathrm{T}} & 1 \\ \vdots & \vdots \\ \boldsymbol{x}_m^{\mathrm{T}} & 1\end{array}\right) \quad \boldsymbol{y}=\left(y_1 ; y_2 ; \ldots ; y_m\right)$
+$$
+\mathbf{X}=\left(\begin{array}{ccccc}
+x_{11} & x_{12} & \cdots & x_{1 d} & 1 \\
+x_{21} & x_{22} & \cdots & x_{2 d} & 1 \\
+\vdots & \vdots & \ddots & \vdots & \vdots \\
+x_{m 1} & x_{m 2} & \cdots & x_{m d} & 1
+\end{array}\right)=\left(\begin{array}{cc}
+\boldsymbol{x}_1^{\mathrm{T}} & 1 \\
+\boldsymbol{x}_2^{\mathrm{T}} & 1 \\
+\vdots & \vdots \\
+\boldsymbol{x}_m^{\mathrm{T}} & 1
+\end{array}\right)
+$$
+
+$$
+\boldsymbol{y}=\left(y_1 ; y_2 ; \ldots ; y_m\right)
+$$
 
 然后就有：
 
