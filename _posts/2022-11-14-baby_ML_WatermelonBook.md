@@ -108,6 +108,8 @@ x_{m 1} & x_{m 2} & \cdots & x_{m d} & 1
 \end{array}\right)
 $$
 
+$$\begin{pmatrix} 1&x&x^2\\ 1&y&y^2\\ 1&z&z^2 \end{pmatrix}$$
+
 $$
 \boldsymbol{y}=\left(y_1 ; y_2 ; \ldots ; y_m\right)
 $$
