@@ -19,7 +19,7 @@ Hey，我是黄鹏程（Gfssfa）, 一个还在四处学习探索的萌新。
 * 2021.05-2022.11
   * SC (CCF A 会议) 学生集群竞赛
   * Benchmark，分子动力学，CFD，地震波模拟等
-  * [赛题](https://sc22.supercomputing.org/program/studentssc/student-cluster-competition/))
+  * [赛题](https://sc22.supercomputing.org/program/studentssc/student-cluster-competition/)
   * [队伍](https://studentclustercompetition.us/2022/Teams/Southeast/index.html)
 * 2021.12-2022.05
    * 世界大学生超级计算机竞赛（ASC）
