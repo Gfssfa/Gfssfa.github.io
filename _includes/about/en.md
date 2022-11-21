@@ -21,16 +21,17 @@ NULL QAQ
 ### Experience
 * 2021.05-2022.11
   * SC (CCF A conference) Student Cluster Competition
+  * Benchmarks (HPL, HPCG, IO500, MLPerf), Molecular Dynamics, CFD , Computational Seismology
   * [Our Team Page](https://studentclustercompetition.us/2022/Teams/Southeast/index.html)
 * 2021.12-2022.05 
-  * Student Supercomputer Challenge (ASC22), Second Class Prize
+  * Student Supercomputer Challenge (ASC22)
   * HPL, HPCG, DeePMD, Distributed Learning
   * [Challenge Details](http://www.asc-events.org/ASC22/Preliminary/)
 * 2020.11-2022.03
   * Adversarial Samples & Text-based CAPTCHA
 
 ### Links
-* [SEU-HPC](https://asc-wiki.com/)
+* [SEU-HPC](https://asc-wiki.com/) Welcome to SEU Supercomputing Club! 🥰
 
 ### Contact
 Email: <hpc-cs@seu.edu.cn> <pchuang@contact.ac.cn>
