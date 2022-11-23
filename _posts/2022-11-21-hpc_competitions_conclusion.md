@@ -4,7 +4,7 @@ title:      "超算竞赛经历小结"
 subtitle:   ""
 date:       2022-11-21 11:30:00
 author:     "Gfssfa"
-header-img: "img/bg-post-2022-11-14.jpg"
+header-img: "img/bg-post-seuhpc.jpg"
 catalog: true
 tags:
     - HPC
