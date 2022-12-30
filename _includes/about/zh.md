@@ -16,7 +16,7 @@ Hey，我是黄鹏程（Gfssfa）, 一个还在四处学习探索的萌新。
 尚未有著作，欢迎交流
 
 ### 经历
-* 2021.05-2022.11
+* 2022.05-2022.11
   * SC (CCF A 会议) 学生集群竞赛
   * Benchmark，分子动力学，CFD，计算地震学等
   * [赛题](https://sc22.supercomputing.org/program/studentssc/student-cluster-competition/)
