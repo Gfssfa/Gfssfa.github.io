@@ -19,7 +19,7 @@ Artificial Intelligence, High Performance Computing
 NULL QAQ
 
 ### Experience
-* 2021.05-2022.11
+* 2022.05-2022.11
   * SC (CCF A conference) Student Cluster Competition
   * Benchmarks (HPL, HPCG, IO500, MLPerf), Molecular Dynamics, CFD , Computational Seismology
   * [Challenge Details](https://sc22.supercomputing.org/program/studentssc/student-cluster-competition/)
