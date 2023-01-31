@@ -21,11 +21,13 @@ NULL QAQ
 ### Experience
 * 2022.05-2022.11
   * SC (CCF A conference) Student Cluster Competition
+  * Rank 3 as Virtual Team
   * Benchmarks (HPL, HPCG, IO500, MLPerf), Molecular Dynamics, CFD , Computational Seismology
   * [Challenge Details](https://sc22.supercomputing.org/program/studentssc/student-cluster-competition/)
   * [Our Team Page](https://studentclustercompetition.us/2022/Teams/Southeast/index.html)
 * 2021.12-2022.05 
   * Student Supercomputer Challenge (ASC22)
+  * Second Class
   * HPL, HPCG, DeePMD, Distributed Learning
   * [Challenge Details](http://www.asc-events.org/ASC22/Preliminary/)
 * 2020.11-2022.03
