@@ -60,3 +60,5 @@ OCI 固定配额 4CPU节点 1个GPU节点（8*A100）
 想去线下想去线下想去线下想去线下
 
 SEU超算任重道远，期望来者
+
+https://gfssfa-github.oss-cn-shanghai.aliyuncs.com/mylatex20230203_190656.pdf
