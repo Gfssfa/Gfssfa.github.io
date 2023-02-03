@@ -61,4 +61,3 @@ OCI 固定配额 4CPU节点 1个GPU节点（8*A100）
 
 SEU超算任重道远，期望来者
 
-![try](https://gfssfa-github.oss-cn-shanghai.aliyuncs.com/%E5%B0%8F%E5%A4%AA%E9%98%B3.png "TRY")
