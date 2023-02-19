@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "不精通但是优雅使用LaTeX"
+title:      "LaTeX使用（轻量化）"
 subtitle:   ""
 date:       2023-02-20 0:30:00
 author:     "Gfssfa"
