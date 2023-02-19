@@ -9,7 +9,7 @@ Hey, I'm Pengcheng Huang (Gfssfa)
 ... waiting for more
 
 ### Education
-* 2019-2022 School of Cyber Scinece and Engineering, Souteast University 
+* 2019-2023 School of Cyber Scinece and Engineering, Souteast University 
   * Cyber Security, Bachelor
 
 ### Research Interests
