@@ -4,7 +4,7 @@ title:      "不精通但是优雅使用LaTeX"
 subtitle:   ""
 date:       2023-02-20 0:30:00
 author:     "Gfssfa"
-header-img: "img/bg-post-2022-11-14.jpg"
+header-img: "img/bg-post-2023-02-20.jpg"
 catalog: true
 tags:
     - baby
