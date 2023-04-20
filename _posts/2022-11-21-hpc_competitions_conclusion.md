@@ -9,7 +9,7 @@ catalog: true
 tags:
     - HPC
     - 竞赛
-    - 总结向
+    - 经验贴
 
 ---
 
