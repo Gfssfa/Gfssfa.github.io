@@ -1,8 +1,10 @@
 ### 自我描述
 
 >Q: You won the Ballon d'Or at the age of 33, your career is an example of progression. What advice would you give?
->LM: You have to pursue your dreams, fight to achieve what you love and never give up. Always have confidence in yourself and what you do, especially at difficult times. In order to achieve your goal and what to accomplish, fight, never give up and work hard to get what you want. 
 >(an interview with Luka Modrić, translated from Spanish)
+
+
+>LM: You have to pursue your dreams, fight to achieve what you love and never give up. Always have confidence in yourself and what you do, especially at difficult times. In order to achieve your goal and what to accomplish, fight, never give up and work hard to get what you want. 
 
 Hey，我是黄鹏程（Gfssfa）, 一个还在四处学习探索的萌新。最喜欢的球员是Luka Modrić。
 
