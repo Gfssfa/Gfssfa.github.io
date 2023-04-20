@@ -23,7 +23,7 @@ Hey，我是黄鹏程（Gfssfa）, 一个还在四处学习探索的萌新。
   * [赛题](https://sc22.supercomputing.org/program/studentssc/student-cluster-competition/)
   * [队伍](https://studentclustercompetition.us/2022/Teams/Southeast/index.html)
 * 2021.12-2022.05
-   * 世界大学生超级计算机竞赛（ASC
+   * 世界大学生超级计算机竞赛（ASC）
    * 二等奖
    * HPL，HPCG，DeePMD，分布式学习
    * [赛题](http://www.asc-events.org/ASC22/Preliminary/)
