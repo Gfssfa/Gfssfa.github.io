@@ -7,7 +7,7 @@ author:     "Gfssfa"
 header-img: "img/bg-post-2023-02-20.jpg"
 catalog: true
 tags:
-    - baby
+    - baby系列
     - LaTeX
 
 ---
