@@ -1,8 +1,11 @@
 ### 自我描述
 
-> 生活不是发现的过程，而是创造的过程。你并不是在发现自我，而是在创造新的自我。因此，别试图解答你是什么人，而要试图确定你想成为什么。
+>Q: You won the Ballon d'Or at the age of 33, your career is an example of progression. What advice would you give?
+
+>LM: You have to pursue your dreams, fight to achieve what you love and never give up. Always have confidence in yourself and what you do, especially at difficult times. In order to achieve your goal and what to accomplish, fight, never give up and work hard to get what you want. (Luka Modrić)
 
 Hey，我是黄鹏程（Gfssfa）, 一个还在四处学习探索的萌新。
+喜欢的球员是Luka Modrić。
 
 ### 教育经历
 * 2019-2023 东南大学 网络空间安全学院
