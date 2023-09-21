@@ -37,4 +37,4 @@ NULL QAQ
 * [SEU-HPC](https://asc-wiki.com/) Welcome to SEU Supercomputing Club! 🥰
 
 ### Contact
-Email: <hpc-cs@seu.edu.cn>
+Email: <pc_huang@seu.edu.cn>
