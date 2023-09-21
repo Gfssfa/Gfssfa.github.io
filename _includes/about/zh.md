@@ -37,4 +37,4 @@ Hey，我是黄鹏程（Gfssfa）, 一个还在四处学习探索的萌新。最
 * [东南大学超算平台](https://asc-wiki.com/) 欢迎加入SEU超算队 🥰
 
 ### 联系
-邮箱：<hpc-cs@seu.edu.cn>
+邮箱：<pc_huang@seu.edu.cn>
