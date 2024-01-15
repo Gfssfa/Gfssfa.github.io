@@ -31,8 +31,6 @@ VT制定用OCI
 
 分子动力学，并行优化竞赛常客
 
-<img src="https://gfssfa-github.oss-cn-shanghai.aliyuncs.com/posts/sc22-lammps-poster.jpg" style="zoom: 25%;" />
-
 ## PHASTA
 
 流体力学软件 从没见过:sob:
@@ -62,4 +60,4 @@ OCI 固定配额 4CPU节点 1个GPU节点（8*A100）
 
 技术积累也比较少，印象中sysu有道赛题他们在以往就有优化后的版本，那道题他们就直接第一
 
-
+<img src="https://gfssfa-github.oss-cn-shanghai.aliyuncs.com/posts/sc22-lammps-poster.jpg" style="zoom: 10%;" />
