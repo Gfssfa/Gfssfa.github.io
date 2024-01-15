@@ -9,29 +9,35 @@ Hey, I'm Pengcheng Huang (Gfssfa)
 ... waiting for more
 
 ### Education
-* 2019-2023 School of Cyber Scinece and Engineering, Souteast University 
+* 2023-Today School of Cyber Scinece and Engineering, Southeast University 
+  * Cyber Security, Master's degree in reading
+* 2019-2023 School of Cyber Scinece and Engineering, Southeast University 
   * Cyber Security, Bachelor
 
 ### Research Interests
-Artificial Intelligence, High Performance Computing
+Adversarial Training, Artificial Intelligence, High Performance Computing
 
 ### Publications
-NULL QAQ
+NULL QaQ
 
+### Honors & Scholarships
+* 2023
+  * First Class Scholarship
+  * Outstanding Graduate of Southeast University
+  * 2022 Huawei Scholarship
+* 2021
+  * Hillstone Cyber Security Schorship
+ 
 ### Experience
 * 2022.05-2022.11
   * SC (CCF A conference) Student Cluster Competition
   * Rank 3 as Virtual Team
-  * Benchmarks (HPL, HPCG, IO500, MLPerf), Molecular Dynamics, CFD , Computational Seismology
-  * [Challenge Details](https://sc22.supercomputing.org/program/studentssc/student-cluster-competition/)
   * [Our Team Page](https://studentclustercompetition.us/2022/Teams/Southeast/index.html)
 * 2021.12-2022.05 
   * Student Supercomputer Challenge (ASC22)
   * Second Class
-  * HPL, HPCG, DeePMD, Distributed Learning
-  * [Challenge Details](http://www.asc-events.org/ASC22/Preliminary/)
 * 2020.11-2022.03
-  * Adversarial Samples & Text-based CAPTCHA
+  * SRTP Program： Adversarial Samples & Text-based CAPTCHA
 
 ### Links
 * [SEU-HPC](https://asc-wiki.com/) Welcome to SEU Supercomputing Club! 🥰
